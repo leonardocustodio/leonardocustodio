@@ -14,7 +14,6 @@ Solutions Engineer at **[Parity Technologies](https://github.com/paritytech)**, 
 |---------|-------------|
 | [**BCTS**](https://github.com/leonardocustodio/bcts) | TypeScript packages implementing specs for decentralized applications — [bcts.dev](https://bcts.dev) |
 | [**Polkadart**](https://github.com/leonardocustodio/polkadart) | Comprehensive Dart library for building Polkadot ecosystem tools - [polkadart.dev](https://polkadart.dev) |
-| [**frosTS**](https://github.com/leonardocustodio/frosts) | TypeScript implementation of FROST threshold signatures |
 | [**RevX**](https://revx.dev) | Browser-based IDE for Polkadot Smart Contracts using Revive |
 
 ---
@@ -26,10 +25,6 @@ For encrypted communication or to verify signatures:
 | Contact | Fingerprint |
 |---------|-------------|
 | leonardo@snowpine.io | `59DA D997 67EF 3BAB 2B90 D057 5384 DEF3 B582 450D` |
-
-```bash
-gpg --recv-keys "59DA D997 67EF 3BAB 2B90 D057 5384 DEF3 B582 450D"
-```
 
 For security vulnerabilities in my projects, please report privately via email.
 
