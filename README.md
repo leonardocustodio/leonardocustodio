@@ -14,7 +14,7 @@ Solutions Engineer at **[Parity Technologies](https://github.com/paritytech)**, 
 |---------|-------------|
 | [**BCTS**](https://github.com/leonardocustodio/bcts) | TypeScript packages implementing specs for decentralized applications — [bcts.dev](https://bcts.dev) |
 | [**Polkadart**](https://github.com/leonardocustodio/polkadart) | Comprehensive Dart library for building Polkadot ecosystem tools - [polkadart.dev](https://polkadart.dev) |
-| [**RevX**](https://revx.dev) | Browser-based IDE for Polkadot Smart Contracts using Revive |
+| [**RevX**](https://revx.dev) | Browser-based IDE for Polkadot Smart Contracts using Revive - [revx.dev](https://revx.dev) |
 
 ---
 
