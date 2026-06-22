@@ -12,9 +12,10 @@ Solutions Engineer at **[Parity Technologies](https://github.com/paritytech)**, 
 
 | Project | Description |
 |---------|-------------|
-| [**BCTS**](https://github.com/leonardocustodio/bcts) | TypeScript packages implementing specs for decentralized applications — [bcts.dev](https://bcts.dev) |
-| [**Polkadart**](https://github.com/leonardocustodio/polkadart) | Comprehensive Dart library for building Polkadot ecosystem tools - [polkadart.dev](https://polkadart.dev) |
+| [**BCTS**](https://github.com/paritytech/bcts) | TypeScript packages implementing specs for decentralized applications — [bcts.dev](https://bcts.dev) |
+| [**Polkadart**](https://github.com/justkawal/polkadart) | Comprehensive Dart library for building Polkadot ecosystem tools - [polkadart.dev](https://polkadart.dev) |
 | [**RevX**](https://revx.dev) | Browser-based IDE for Polkadot Smart Contracts using Revive - [revx.dev](https://revx.dev) |
+| [**frosTS**](https://github.com/leonardocustodio/frosts) | TypeScript implementation of FROST threshold signatures. Supporting Ed25519, secp256k1, P-256, Ristretto255, Ed448, and Taproot. |
 
 ---
 
