@@ -12,7 +12,7 @@ Solutions Engineer at **[Parity Technologies](https://github.com/paritytech)**, 
 
 | Project | Description |
 |---------|-------------|
-| [**Dot.li**](https://github.com/paritytech/dotli-community | A decentralized web browser that runs in your browser. Applications with fully trustless, client-side resolution - [paseo.li](https://paseo.li) |
+| [**Dot.li**](https://github.com/paritytech/dotli-community) | A decentralized web browser that runs in your browser. Applications with fully trustless, client-side resolution - [paseo.li](https://paseo.li) |
 | [**BCTS**](https://github.com/paritytech/bcts) | TypeScript packages implementing specs for decentralized applications - [bcts.dev](https://bcts.dev) |
 | [**Polkadart**](https://github.com/justkawal/polkadart) | Comprehensive Dart library for building Polkadot ecosystem tools - [polkadart.dev](https://polkadart.dev) |
 | [**RevX**](https://revx.dev) | Browser-based IDE for Polkadot Smart Contracts using Revive - [revx.dev](https://revx.dev) |
